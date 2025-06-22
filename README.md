@@ -5,12 +5,12 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 User Management: Implement a secure system for user registration, authentication, and profile management. Property Management: Develop features for property listing creation, updates, and retrieval. Booking System: Create a booking mechanism for users to reserve properties and manage booking details. Payment Processing: Integrate a payment system to handle transactions and record payment details. Review System: Allow users to leave reviews and ratings for properties. Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
 # Technology Stack
--Django: A Python-based web framework used for building the backend APIs and handling the server-side logic.
--PostgreSQL: A relational database used for storing all structured data such as users, bookings, properties, and reviews.
--GraphQL (optional): Can be used for more flexible API querying if the project extends beyond REST.
--HTML/CSS/JavaScript: Used for frontend development.
--Docker: Used for containerizing the application and managing development environments.
--GitHub Actions: A CI/CD tool for automating testing and deployment workflows.
+1.Django: A Python-based web framework used for building the backend APIs and handling the server-side logic.
+2.PostgreSQL: A relational database used for storing all structured data such as users, bookings, properties, and reviews.
+3.GraphQL (optional): Can be used for more flexible API querying if the project extends beyond REST.
+4.HTML/CSS/JavaScript: Used for frontend development.
+5.Docker: Used for containerizing the application and managing development environments.
+6.GitHub Actions: A CI/CD tool for automating testing and deployment workflows.
 
 # Team Roles
 ## Backend Developer
